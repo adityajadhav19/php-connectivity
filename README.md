@@ -87,4 +87,4 @@ For production apps:
 
 ## Author
 - Aditya Ashok Jadhav
-GitHub Profile: https://github.com/codewithadityaj
+GitHub Profile: https://github.com/adityajadhav19
